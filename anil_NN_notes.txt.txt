@@ -1,1 +1,3 @@
 https://www.geeksforgeeks.org/implementing-ann-training-process-in-python/
+
+https://www.geeksforgeeks.org/activation-functions-neural-networks/
